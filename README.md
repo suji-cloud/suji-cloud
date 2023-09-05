@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @suji-cloud
-- 👀 I’m .currently working as Cloud Support Enginner..  
+- 👀 I’m .currently working as Cloud Support Engineer..  
 - 🌱 I’m currently learning Cloud & Devops for upskilling.. 
 - 💞️ I’m looking to collaborate on basic simple projects for learning purpose.. 
 - 📫 How to reach me sujinetworks08@gmail.com..
